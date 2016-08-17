@@ -1,0 +1,19 @@
+//
+//  PrefixHeader.pch
+//  MQHorizontalAndVerticallayout
+//
+//  Created by macbook on 16/8/12.
+//  Copyright © 2016年 QIYIKE. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+
+#endif /* PrefixHeader_pch */
+
+#ifdef __OBJC__
+
+#import "Constant.h"
+
+#endif
